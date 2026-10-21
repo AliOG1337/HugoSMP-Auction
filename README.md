@@ -10,24 +10,36 @@ Mit **HugoAuctions** bekommen Paper-Server ein eigenes, konfigurierbares Auktion
 
 - **Schnellzugriff:** Auktionshaus mit `/ah` öffnen.
 - **Leistungsstarke Suche:** Items nach Namen oder Verzauberungen finden, auch auf verzauberten Büchern. Die Suche versteht beispielsweise `sharpness` und `Schärfe`.
-- **Sortierung und Filter:** Angebote nach Aktualität oder Preis sortieren und mit Stack-Filtern eingrenzen.
+- **Sortierung und Stack-Filter:** Angebote nach Aktualität oder Preis sortieren und die Ansicht auf alle Angebote, ganze Stacks oder einzelne Items filtern.
 - **Geführtes Erstellen und Kaufen:** Item auswählen, Preis festlegen und Angebot oder Kauf im GUI bestätigen.
 - **Konfigurierbare Regeln:** Preise, Laufzeit, Angebotslimits, Bestätigungsdialoge sowie Einstellgebühren und Verkaufssteuer in der `config.yml` anpassen.
 - **Wirtschaftssysteme:** Automatische Erkennung von LuckySMP oder Vault, alternativ eine integrierte Kontoführung.
 - **Verlauf und sichere Zustellung:** Auktionsereignisse werden gespeichert; Items werden bei erfolgreichem Abschluss sicher zugestellt.
 - **Passende GUI:** Optionales Ressourcenpaket mit eigenen Auktionshaus-Icons.
 
-![HugoAuctions GUI](docs/media/HugoAuctions-GUI.png)
+## Auktionshaus
+
+![Angebote im HugoAuctions-Auktionshaus](docs/media/HugoAuctions-GUI.png)
+
+Das Hauptmenü zeigt aktuelle Angebote in einem übersichtlichen Inventar. Über die Symbolleiste erreichst du Suche, Navigation, Filter, deine Auktionen und das Erstellen neuer Angebote.
+
+## Sortierung und Stack-Filter
+
+![Sortierung und Stack-Filter](docs/media/HugoAuctions-Filter.png)
+
+Per Linksklick wechselst du die Sortierung. Per Rechtsklick stellst du den Stack-Filter um: alle Angebote, nur ganze Stacks oder nur einzelne Items.
+
+## Deine Auktionen
+
+![Übersicht deiner Auktionen](docs/media/HugoAuctions-Deine-Auktionen.png)
+
+Die persönliche Übersicht trennt laufende, verkaufte, gekaufte und abgelaufene Auktionen. Außerdem siehst du deine Ausgaben und Einnahmen.
 
 ## Voraussetzungen
 
 - Paper 1.21.11 oder kompatibel
 - Optional: LuckySMP 1.5.27+ oder Vault mit Economy-Provider
 
-HugoAuctions ist für Serverbetreiber gedacht, die ihr Auktionshaus an ihre Regeln und ihr Wirtschaftssystem anpassen möchten.
-
-**Projekt:** HugoSMP - Auction  
-**Plugin:** HugoAuctions  
 **Befehle:** `/ah`, `/auction`, `/auctionhouse`
 
-*Projektvorstellung: Dieses Repository enthält die Beschreibung und Vorschaubilder. Plugin-JARs und Installationsdateien werden hier nicht bereitgestellt.*
+*Dieses Repository stellt HugoAuctions mit Beschreibung und Vorschaubildern vor. Plugin-JARs und Installationsdateien werden hier nicht bereitgestellt.*
