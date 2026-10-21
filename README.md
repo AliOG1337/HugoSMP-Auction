@@ -42,4 +42,7 @@ Die persönliche Übersicht trennt laufende, verkaufte, gekaufte und abgelaufene
 
 **Befehle:** `/ah`, `/auction`, `/auctionhouse`
 
+**Interesse am Skript/Plugin?** Add **AliOG1337** auf Discord.
+
 *Dieses Repository stellt HugoAuctions mit Beschreibung und Vorschaubildern vor. Plugin-JARs und Installationsdateien werden hier nicht bereitgestellt.*
+
