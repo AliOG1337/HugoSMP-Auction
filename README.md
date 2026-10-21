@@ -4,7 +4,7 @@
 
 # HugoSMP - Auction
 
-### HugoAuctions – Auktionshaus direkt in Minecraft
+### HugoAuctions – Auktionshaus inspiriert an HugoSMP.net
 
 ![HugoAuctions Werbebild](docs/media/HugoAuctions-Preview.png)
 
@@ -42,10 +42,8 @@ Die persönliche Übersicht trennt laufende, verkaufte, gekaufte und abgelaufene
 ## Voraussetzungen
 
 - Paper 1.21.11 oder kompatibel
-- Optional: LuckySMP 1.5.27+ oder Vault mit Economy-Provider
+- Optional: Vault mit Economy-Provider
 
 **Befehle:** `/ah`, `/auction`, `/auctionhouse`
-
-*Dieses Repository stellt HugoAuctions mit Beschreibung und Vorschaubildern vor. Plugin-JARs und Installationsdateien werden hier nicht bereitgestellt.*
 
 
