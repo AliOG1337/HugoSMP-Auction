@@ -2,13 +2,13 @@
 
 **Interesse am Skript/Plugin?** Add **AliOG1337** auf Discord.
 
-# HugoSMP - Auction
+# HugoSMP - Auction | Minecraft Paper Auction House Plugin
 
 ### HugoAuctions – Auktionshaus inspiriert an HugoSMP.net
 
 ![HugoAuctions Werbebild](docs/media/HugoAuctions-Preview.png)
 
-Mit **HugoAuctions** bekommen Paper-Server ein eigenes, konfigurierbares Auktionshaus direkt im Spiel. Spieler öffnen es mit `/ah`, durchsuchen Angebote und können eigene Items mit wenigen Klicks einstellen.
+**HugoAuctions** ist das Minecraft Paper Auction House Plugin und Auktionshaus-Plugin für HugoSMP. Mit `/ah` öffnen Spieler das Auktionshaus, durchsuchen Angebote und stellen eigene Items mit wenigen Klicks ein.
 
 ## Funktionen
 
@@ -45,5 +45,6 @@ Die persönliche Übersicht trennt laufende, verkaufte, gekaufte und abgelaufene
 - Optional: Vault mit Economy-Provider
 
 **Befehle:** `/ah`, `/auction`, `/auctionhouse`
+
 
 
